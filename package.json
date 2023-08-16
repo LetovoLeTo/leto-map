@@ -1,0 +1,25 @@
+{
+  "name": "leto-map",
+  "version": "0.1.0",
+  "description": "A school map for new letovians.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LetovoLeTo/leto-map.git"
+  },
+  "keywords": [
+    "letovo",
+    "leto",
+    "map",
+    "school"
+  ],
+  "author": "Milk_Cool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LetovoLeTo/leto-map/issues"
+  },
+  "homepage": "https://github.com/LetovoLeTo/leto-map#readme"
+}
